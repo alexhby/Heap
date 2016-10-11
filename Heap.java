@@ -1,4 +1,3 @@
-//Q3 Boyi He 260512062
 package Heap;
 
 public class Heap {
